@@ -2,6 +2,7 @@
   "name": "sean-yeomans-portfolio",
   "version": "1.0.0",
   "description": "Sean Yeomans - Senior Consultant/Developer Portfolio",
+  "homepage": "https://seanyeomans.github.io/seanyeomans.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
